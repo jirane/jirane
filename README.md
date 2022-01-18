@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jirane
-- 👀 I’m interested in Fron-end development
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Fron-end developer
+- 🌱 I’m currently learning sass
+- 💞️ I’m looking to collaborate on a front-end project
 - 📫 How to reach me ...
 
 <!---
