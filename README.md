@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jirane
 - 👀 I’m a Fron-end developer
-- 🌱 I’m currently learning sass
 - 💞️ I’m looking to collaborate on a front-end project
 - 📫 How to reach me ...
 
